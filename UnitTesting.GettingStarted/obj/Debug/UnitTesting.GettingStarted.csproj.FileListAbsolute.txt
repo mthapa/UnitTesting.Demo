@@ -1,0 +1,5 @@
+C:\Users\xneox\OneDrive\Documents\Visual Studio 2017\Projects\UnitTesting.GettingStarted.Tests\UnitTesting.GettingStarted\bin\Debug\UnitTesting.GettingStarted.dll
+C:\Users\xneox\OneDrive\Documents\Visual Studio 2017\Projects\UnitTesting.GettingStarted.Tests\UnitTesting.GettingStarted\bin\Debug\UnitTesting.GettingStarted.pdb
+C:\Users\xneox\OneDrive\Documents\Visual Studio 2017\Projects\UnitTesting.GettingStarted.Tests\UnitTesting.GettingStarted\obj\Debug\UnitTesting.GettingStarted.dll
+C:\Users\xneox\OneDrive\Documents\Visual Studio 2017\Projects\UnitTesting.GettingStarted.Tests\UnitTesting.GettingStarted\obj\Debug\UnitTesting.GettingStarted.pdb
+C:\Users\xneox\OneDrive\Documents\Visual Studio 2017\Projects\UnitTesting.GettingStarted.Tests\UnitTesting.GettingStarted\obj\Debug\UnitTesting.GettingStarted.csprojResolveAssemblyReference.cache
